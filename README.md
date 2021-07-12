@@ -1,4 +1,4 @@
-## Furniture E-Commerce Web app using modern technologies:-
+## Furniture E-Commerce Web app with modern filtration methods using modern technologies:-
 #### live: 
 ---
 

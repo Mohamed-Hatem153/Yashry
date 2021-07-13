@@ -8,7 +8,8 @@
 - Context API
 - Styled-Components
 - react-router-dom
-- Google_auth
+- Auth0
+- Stripe
 - CSS
 - JSX
 - react-icons

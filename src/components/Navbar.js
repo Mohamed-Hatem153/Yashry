@@ -3,7 +3,7 @@ import CartButtons from "./CartButtons";
 import { useProductsContext } from "../context/products_context";
 import { useUserContext } from "../context/user_context";
 import { links } from "../utils/constants";
-import logo from "../assets/logo.svg";
+import logo from "../assets/cinelli-logo.svg";
 import { FaBars } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
@@ -53,8 +53,8 @@ const NavContainer = styled.nav`
     align-items: center;
     justify-content: space-between;
     img {
-      width: 175px;
-      margin-left: -15px;
+      width: 150px;
+      margin-left: -5px;
     }
   }
   .nav-toggle {

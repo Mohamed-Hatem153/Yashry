@@ -1,4 +1,4 @@
-This is a sample application for building an e-commerce store with a lot of filters options and a lot of sort options .
+This is a sample application for building an e-commerce store with a lot of filter products options and a lot of sort products options .
 
 - [Overview](#overview)
 - [Requirements](#requirements)

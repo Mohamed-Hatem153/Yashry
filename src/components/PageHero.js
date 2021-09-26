@@ -1,14 +1,10 @@
 import React from "react";
 import styled from "styled-components";
-import { Link } from "react-router-dom";
-const PageHero = ({ title, product }) => {
+const PageHero = () => {
   return (
     <Wrapper>
       <div className="section-center">
-        <h3>
-          <Link to="/">Home</Link>
-          {product ? <Link to="/products">/ Products</Link> : null}/ {title}
-        </h3>
+        <h3>Our e-commerce filter</h3>
       </div>
     </Wrapper>
   );

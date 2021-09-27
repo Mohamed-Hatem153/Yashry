@@ -42,3 +42,5 @@ npm run build
 ```
 
 ## Live
+
+https://yashrytask.netlify.app/

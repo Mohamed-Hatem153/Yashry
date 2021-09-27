@@ -26,7 +26,7 @@ const SingleProductPage = () => {
 
   useEffect(() => {
     fetchSingleProduct(`${url}${id}`);
-  }, [id, fetchSingleProduct]);
+  }, [id]);
 
   useEffect(() => {
     if (error) {
@@ -34,7 +34,7 @@ const SingleProductPage = () => {
         history.push("/");
       }, 3000);
     }
-  }, [error, history]);
+  }, [error]);
 
   if (loading) {
     return <Loading />;
